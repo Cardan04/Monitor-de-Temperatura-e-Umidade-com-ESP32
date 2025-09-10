@@ -2,7 +2,7 @@
 Este projeto utiliza um ESP32 conectado a um sensor DHT11 e um display OLED 128x64 para monitorar e exibir em tempo real a temperatura e a umidade do ambiente.
 O circuito foi montado em uma protoboard para facilitar os testes.
 
-* Para esse  projeto eu copiei a biblioteca do LCD 
+* Para esse  projeto eu copiei a biblioteca do LCD e coloquei no arquivo ssd1606.py
 
 🧩 Componentes utilizados
 
